@@ -65,6 +65,8 @@ const HomeLogin = () => {
 
     </div>
 
+    <div> <p> Hello</p></div>
+
   </>);
 };
 
